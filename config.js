@@ -139,19 +139,19 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'AGE anime',
+					name: 'AGE',
 					link: 'https://www.agedm.org/update',
 				},
 				{
-					name: 'Catw.moe anime',
+					name: 'Cat.Moe',
 					link: 'https://catw.moe/',
 				},
 				{
-					name: 'FMovies / shows',
+					name: 'FMovies',
 					link: 'https://fmoviesz.to/home',
 				},
 				{
-					name: 'Football streams',
+					name: 'Football',
 					link: 'https://www1.footybite.cc/',
 				},
 			],
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'SteamDB',
+					link: 'https://steamdb.info/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'FreeGOG',
+					link: 'https://freegogpcgames.com/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Repacks',
+					link: 'https://fitgirl-repacks.site/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'CS.RIN.RU',
+					link: 'https://cs.rin.ru/forum/viewforum.php?f=10',
 				},
 			],
 		},
